@@ -1,0 +1,42 @@
+body{
+    width:100%;
+
+
+}
+.all{
+    width: 100%;
+}
+.all h1{
+    color: white;
+
+}
+.all p{
+    margin: 30px;
+}
+    
+.column{
+    width: 33%;
+    display:flex;
+    float:left;
+    flex-wrap: wrap;
+    background-color: white;
+     
+}
+.container{
+    width: 80%;
+    padding: 16px;
+    box-shadow: 3px 3px 3px 3px rgb(200, 184, 188);
+    
+}
+.container img{
+    width: 100%;
+
+
+}
+button{
+    color: white;
+    background-color: black;
+    width: 80%;
+    margin: 20px;
+    padding: 5px;
+}
